@@ -168,6 +168,7 @@
     <Compile Include="frmProcessor.Designer.cs">
       <DependentUpon>frmProcessor.cs</DependentUpon>
     </Compile>
+    <Compile Include="Processor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmProcessor.resx">

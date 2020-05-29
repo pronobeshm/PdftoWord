@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatToFormat", "FormatToFormat.csproj", "{CBED4E33-6DC2-41A0-B838-17BED5BDBE5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatToFormatTest", "..\FormatToFormatTest\FormatToFormatTest.csproj", "{B6DCC141-E33F-4A5D-8DFA-42EC4016B2F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CBED4E33-6DC2-41A0-B838-17BED5BDBE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBED4E33-6DC2-41A0-B838-17BED5BDBE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBED4E33-6DC2-41A0-B838-17BED5BDBE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6DCC141-E33F-4A5D-8DFA-42EC4016B2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DCC141-E33F-4A5D-8DFA-42EC4016B2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DCC141-E33F-4A5D-8DFA-42EC4016B2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DCC141-E33F-4A5D-8DFA-42EC4016B2F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
